@@ -1,0 +1,8 @@
+c:\users\krzysztofda\documents\visual studio 2015\Projects\MockingLibrariesComparison\MockingLibrariesComparison\bin\Debug\MockingLibrariesComparison.exe.config
+c:\users\krzysztofda\documents\visual studio 2015\Projects\MockingLibrariesComparison\MockingLibrariesComparison\bin\Debug\MockingLibrariesComparison.exe
+c:\users\krzysztofda\documents\visual studio 2015\Projects\MockingLibrariesComparison\MockingLibrariesComparison\bin\Debug\MockingLibrariesComparison.pdb
+c:\users\krzysztofda\documents\visual studio 2015\Projects\MockingLibrariesComparison\MockingLibrariesComparison\obj\Debug\MockingLibrariesComparison.csprojResolveAssemblyReference.cache
+c:\users\krzysztofda\documents\visual studio 2015\Projects\MockingLibrariesComparison\MockingLibrariesComparison\obj\Debug\MockingLibrariesComparison.Properties.Resources.resources
+c:\users\krzysztofda\documents\visual studio 2015\Projects\MockingLibrariesComparison\MockingLibrariesComparison\obj\Debug\MockingLibrariesComparison.csproj.GenerateResource.Cache
+c:\users\krzysztofda\documents\visual studio 2015\Projects\MockingLibrariesComparison\MockingLibrariesComparison\obj\Debug\MockingLibrariesComparison.exe
+c:\users\krzysztofda\documents\visual studio 2015\Projects\MockingLibrariesComparison\MockingLibrariesComparison\obj\Debug\MockingLibrariesComparison.pdb
