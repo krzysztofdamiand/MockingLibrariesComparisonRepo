@@ -1,0 +1,9 @@
+C:\Users\krzysztofda\Documents\GitHub\MockingLibrariesComparisonRepo\NSubstitute\bin\Debug\NSubstitute.dll
+C:\Users\krzysztofda\Documents\GitHub\MockingLibrariesComparisonRepo\NSubstitute\bin\Debug\NSubstitute.pdb
+C:\Users\krzysztofda\Documents\GitHub\MockingLibrariesComparisonRepo\NSubstitute\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\krzysztofda\Documents\GitHub\MockingLibrariesComparisonRepo\NSubstitute\bin\Debug\MockingLibrariesComparison.exe
+C:\Users\krzysztofda\Documents\GitHub\MockingLibrariesComparisonRepo\NSubstitute\bin\Debug\MockingLibrariesComparison.pdb
+C:\Users\krzysztofda\Documents\GitHub\MockingLibrariesComparisonRepo\NSubstitute\bin\Debug\NSubstitute.xml
+C:\Users\krzysztofda\Documents\GitHub\MockingLibrariesComparisonRepo\NSubstitute\obj\Debug\NSubstitute.csprojResolveAssemblyReference.cache
+C:\Users\krzysztofda\Documents\GitHub\MockingLibrariesComparisonRepo\NSubstitute\obj\Debug\NSubstitute.dll
+C:\Users\krzysztofda\Documents\GitHub\MockingLibrariesComparisonRepo\NSubstitute\obj\Debug\NSubstitute.pdb

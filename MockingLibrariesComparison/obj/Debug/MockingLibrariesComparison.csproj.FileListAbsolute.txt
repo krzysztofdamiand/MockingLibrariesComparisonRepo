@@ -6,3 +6,11 @@ c:\users\krzysztofda\documents\visual studio 2015\Projects\MockingLibrariesCompa
 c:\users\krzysztofda\documents\visual studio 2015\Projects\MockingLibrariesComparison\MockingLibrariesComparison\obj\Debug\MockingLibrariesComparison.csproj.GenerateResource.Cache
 c:\users\krzysztofda\documents\visual studio 2015\Projects\MockingLibrariesComparison\MockingLibrariesComparison\obj\Debug\MockingLibrariesComparison.exe
 c:\users\krzysztofda\documents\visual studio 2015\Projects\MockingLibrariesComparison\MockingLibrariesComparison\obj\Debug\MockingLibrariesComparison.pdb
+C:\Users\krzysztofda\Documents\GitHub\MockingLibrariesComparisonRepo\MockingLibrariesComparison\bin\Debug\MockingLibrariesComparison.exe.config
+C:\Users\krzysztofda\Documents\GitHub\MockingLibrariesComparisonRepo\MockingLibrariesComparison\obj\Debug\MockingLibrariesComparison.exe
+C:\Users\krzysztofda\Documents\GitHub\MockingLibrariesComparisonRepo\MockingLibrariesComparison\obj\Debug\MockingLibrariesComparison.pdb
+C:\Users\krzysztofda\Documents\GitHub\MockingLibrariesComparisonRepo\MockingLibrariesComparison\bin\Debug\MockingLibrariesComparison.exe
+C:\Users\krzysztofda\Documents\GitHub\MockingLibrariesComparisonRepo\MockingLibrariesComparison\bin\Debug\MockingLibrariesComparison.pdb
+C:\Users\krzysztofda\Documents\GitHub\MockingLibrariesComparisonRepo\MockingLibrariesComparison\obj\Debug\MockingLibrariesComparison.Properties.Resources.resources
+C:\Users\krzysztofda\Documents\GitHub\MockingLibrariesComparisonRepo\MockingLibrariesComparison\obj\Debug\MockingLibrariesComparison.csproj.GenerateResource.Cache
+C:\Users\krzysztofda\Documents\GitHub\MockingLibrariesComparisonRepo\MockingLibrariesComparison\obj\Debug\MockingLibrariesComparison.csprojResolveAssemblyReference.cache

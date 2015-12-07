@@ -6,13 +6,22 @@ using System.Threading.Tasks;
 
 namespace MockingLibrariesComparison
 {
-    public class BankAccount
+    public interface IBankAccount
+    {
+        string CustomerName { get; }
+        double Balance { get; }
+        double GetBalance();
+        double Debit(double amount);
+       // double Credit(double amount);    //metoda prywatna do testow
+    }
+
+    public class BankAccount : IBankAccount
     {
         private string m_customerName;
         private double m_balance;
         private bool m_frozen = false;
 
-        private BankAccount()
+        public BankAccount()
         {
         }
 
@@ -37,7 +46,7 @@ namespace MockingLibrariesComparison
             return m_balance;
         }
 
-        public void Debit(double amount)
+        public double Debit(double amount)
         {
             if (m_frozen)
             {
@@ -53,11 +62,13 @@ namespace MockingLibrariesComparison
             {
                 throw new ArgumentOutOfRangeException("amount");
             }
-
+            
             m_balance += amount; // intentionally incorrect code
+
+            return m_balance;
         }
 
-        public void Credit(double amount)
+        public virtual double Credit(double amount)
         {
             if (m_frozen)
             {
@@ -70,6 +81,7 @@ namespace MockingLibrariesComparison
             }
 
             m_balance += amount;
+            return m_balance;
         }
 
         private void FreezeAccount()
